@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="b1">
+        <title>Test book 1</title>
+        <author>Test author 1</author>
+        <year>1000</year>
+        <genre>Test genre 1</genre>
+        <price>1000</price>
+    </book>
+    <book id="b2">
+        <title>Test book 2</title>
+        <author>Test author 2</author>
+        <year>2000</year>
+        <genre>Test genre 2</genre>
+        <price>2000</price>
+    </book>
+    <book id="b3">
+        <title>Test book 3</title>
+        <author>Test author 3</author>
+        <year>3000</year>
+        <genre>Test genre 3</genre>
+        <price>3000</price>
+    </book>
+</library>
